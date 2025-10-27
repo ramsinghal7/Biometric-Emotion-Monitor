@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit
+dlib
+imutils
+deepface
+joblib
